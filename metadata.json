@@ -1,0 +1,6 @@
+{
+  "name": "KasirWarung AI - POS & Kasbon Sembako",
+  "description": "Sistem Kasir, Stok, dan Buku Kasbon Warung Sembako / Toko Kelontong Modern dengan Dukungan AI & Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
